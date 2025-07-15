@@ -43,7 +43,7 @@ const Hero = () => {
           {/* Action Buttons */}
           <div className="flex flex-wrap gap-4">
             <a
-              href="/Nikhilresume.pdf"
+              href="/Portfolio/Nikhilresume.pdf"
               download
               className="relative z-10 border border-emerald-400 text-emerald-400 hover:bg-emerald-400 hover:text-slate-900 px-8 py-3 rounded-lg transition-all duration-300 hover:scale-105 inline-flex items-center"
             >
@@ -55,7 +55,7 @@ const Hero = () => {
           {/* Social + Contact */}
           <div className="flex flex-wrap items-center gap-6 mt-4">
             <a
-              href="https://github.com/nikhil21031"
+              href="https://github.com/nikhil-1910"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-emerald-400 transition-colors duration-300 hover:scale-110 transform"
